@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33000414342",
+    "project_id": "jonfireb",
+    "storage_bucket": "jonfireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33000414342:android:bada7f4832f50a460e8507",
+        "android_client_info": {
+          "package_name": "firebaseJonathan.J1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33000414342-ugb9dnnvokbj45gf9rus7f0gnuj7sfam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAot5vwgzAl2AMekjn3K6qxc6Zqd4FcZzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33000414342-ugb9dnnvokbj45gf9rus7f0gnuj7sfam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
